@@ -2,7 +2,7 @@
 
 This project performs comprehensive data cleaning, exploration, and visualization on the Electric Vehicle Population dataset published by the Washington State Department of Licensing. It identifies trends in EV registrations, brand popularity, electric range statistics, and assesses infrastructure fairness across counties.
 
-**Source**: [WA State EV Registration Dataset]
+**Source**: [WA State EV Registration Dataset](https://www.kaggle.com/datasets/willianoliveiragibin/electric-vehicle-population/data)
 **File used**: `Electric_Vehicle_Population_Data.csv`
 
 # Features
